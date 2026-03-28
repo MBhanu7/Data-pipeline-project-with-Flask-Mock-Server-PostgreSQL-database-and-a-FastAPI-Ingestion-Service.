@@ -1,0 +1,222 @@
+[
+    {
+        "customer_id": "CUST-001",
+        "first_name": "Shana",
+        "last_name": "Durtnell",
+        "email": "sdurtnell0@yahoo.co.jp",
+        "phone": "914-737-5029",
+        "address": "05 Spenser Hill",
+        "date_of_birth": "1995-03-08",
+        "account_balance": 427.50,
+        "created_at": "2023-01-10T07:50:00Z"
+    },
+    {
+        "customer_id": "CUST-002",
+        "first_name": "Archambault",
+        "last_name": "Sauter",
+        "email": "asauter1@hugedomains.com",
+        "phone": "699-939-7464",
+        "address": "5521 Talmadge Court",
+        "date_of_birth": "1995-06-04",
+        "account_balance": 240.00,
+        "created_at": "2023-01-11T14:48:00Z"
+    },
+    {
+        "customer_id": "CUST-003",
+        "first_name": "Walton",
+        "last_name": "Sowter",
+        "email": "wsowter2@163.com",
+        "phone": "411-241-3138",
+        "address": "45734 Basil Parkway",
+        "date_of_birth": "1997-02-16",
+        "account_balance": 188.25,
+        "created_at": "2023-01-12T09:46:00Z"
+    },
+    {
+        "customer_id": "CUST-004",
+        "first_name": "Drusy",
+        "last_name": "Saladine",
+        "email": "dsaladine3@princeton.edu",
+        "phone": "782-615-2614",
+        "address": "0 Beilfuss Place",
+        "date_of_birth": "1993-01-06",
+        "account_balance": 869.00,
+        "created_at": "2023-01-13T15:16:00Z"
+    },
+    {
+        "customer_id": "CUST-005",
+        "first_name": "Wilfrid",
+        "last_name": "Yoslowitz",
+        "email": "wyoslowitz4@hud.gov",
+        "phone": "932-466-7462",
+        "address": "70 Sauthoff Pass",
+        "date_of_birth": "1993-11-23",
+        "account_balance": 296.50,
+        "created_at": "2023-01-14T15:12:00Z"
+    },
+    {
+        "customer_id": "CUST-006",
+        "first_name": "Alice",
+        "last_name": "Vance",
+        "email": "avance5@google.com",
+        "phone": "555-0106",
+        "address": "123 Wonderland Ave",
+        "date_of_birth": "1990-05-14",
+        "account_balance": 1500.50,
+        "created_at": "2023-01-15T08:30:00Z"
+    },
+    {
+        "customer_id": "CUST-007",
+        "first_name": "Bob",
+        "last_name": "Miller",
+        "email": "bmiller6@bing.com",
+        "phone": "555-0107",
+        "address": "456 Pine St",
+        "date_of_birth": "1985-11-22",
+        "account_balance": 2450.75,
+        "created_at": "2023-01-16T09:15:00Z"
+    },
+    {
+        "customer_id": "CUST-008",
+        "first_name": "Charlie",
+        "last_name": "Davis",
+        "email": "cdavis7@apple.com",
+        "phone": "555-0108",
+        "address": "789 Elm St",
+        "date_of_birth": "1992-03-08",
+        "account_balance": 320.00,
+        "created_at": "2023-01-17T10:00:00Z"
+    },
+    {
+        "customer_id": "CUST-009",
+        "first_name": "Diana",
+        "last_name": "Ross",
+        "email": "dross8@amazon.com",
+        "phone": "555-0109",
+        "address": "101 Hero Ave",
+        "date_of_birth": "1988-07-30",
+        "account_balance": 8900.25,
+        "created_at": "2023-01-18T11:45:00Z"
+    },
+    {
+        "customer_id": "CUST-010",
+        "first_name": "Evan",
+        "last_name": "Peters",
+        "email": "epeters9@netflix.com",
+        "phone": "555-0110",
+        "address": "202 Birch Rd",
+        "date_of_birth": "1995-12-12",
+        "account_balance": 150.00,
+        "created_at": "2023-01-19T14:20:00Z"
+    },
+    {
+        "customer_id": "CUST-011",
+        "first_name": "Fiona",
+        "last_name": "Gallagher",
+        "email": "fgalla@showtime.com",
+        "phone": "555-0111",
+        "address": "303 Cedar Ln",
+        "date_of_birth": "1991-09-05",
+        "account_balance": 4320.90,
+        "created_at": "2023-01-20T16:10:00Z"
+    },
+    {
+        "customer_id": "CUST-012",
+        "first_name": "George",
+        "last_name": "Costanza",
+        "email": "gcosta@nbc.com",
+        "phone": "555-0112",
+        "address": "404 Maple Dr",
+        "date_of_birth": "1980-04-18",
+        "account_balance": 50.25,
+        "created_at": "2023-01-21T08:05:00Z"
+    },
+    {
+        "customer_id": "CUST-013",
+        "first_name": "Hannah",
+        "last_name": "Abbott",
+        "email": "habbott@hogwarts.edu",
+        "phone": "555-0113",
+        "address": "505 Walnut St",
+        "date_of_birth": "1993-01-25",
+        "account_balance": 6700.00,
+        "created_at": "2023-01-22T09:30:00Z"
+    },
+    {
+        "customer_id": "CUST-014",
+        "first_name": "Ian",
+        "last_name": "Malcolm",
+        "email": "imalcolm@jurassic.com",
+        "phone": "555-0114",
+        "address": "606 Cherry Ct",
+        "date_of_birth": "1975-08-11",
+        "account_balance": 12400.50,
+        "created_at": "2023-01-23T10:15:00Z"
+    },
+    {
+        "customer_id": "CUST-015",
+        "first_name": "Julia",
+        "last_name": "Gulia",
+        "email": "jgulia@wedding.com",
+        "phone": "555-0115",
+        "address": "707 Spruce Way",
+        "date_of_birth": "1982-10-28",
+        "account_balance": 3450.80,
+        "created_at": "2023-01-24T11:50:00Z"
+    },
+    {
+        "customer_id": "CUST-016",
+        "first_name": "Kevin",
+        "last_name": "Bacon",
+        "email": "kbacon@sixdegrees.com",
+        "phone": "555-0116",
+        "address": "808 Ash Blvd",
+        "date_of_birth": "1970-02-14",
+        "account_balance": 980.00,
+        "created_at": "2023-01-25T13:40:00Z"
+    },
+    {
+        "customer_id": "CUST-017",
+        "first_name": "Laura",
+        "last_name": "Palmer",
+        "email": "lpalmer@peaks.com",
+        "phone": "555-0117",
+        "address": "909 Fir Pl",
+        "date_of_birth": "1994-06-20",
+        "account_balance": 2100.00,
+        "created_at": "2023-01-26T15:25:00Z"
+    },
+    {
+        "customer_id": "CUST-018",
+        "first_name": "Mike",
+        "last_name": "Wheeler",
+        "email": "mwheeler@upsidedown.com",
+        "phone": "555-0118",
+        "address": "111 Hawkins St",
+        "date_of_birth": "2000-04-07",
+        "account_balance": 45.50,
+        "created_at": "2023-01-27T08:10:00Z"
+    },
+    {
+        "customer_id": "CUST-019",
+        "first_name": "Nancy",
+        "last_name": "Drew",
+        "email": "ndrew@mystery.com",
+        "phone": "555-0119",
+        "address": "222 Mystery Ln",
+        "date_of_birth": "1996-09-15",
+        "account_balance": 5600.20,
+        "created_at": "2023-01-28T09:55:00Z"
+    },
+    {
+        "customer_id": "CUST-020",
+        "first_name": "Oscar",
+        "last_name": "Martinez",
+        "email": "omartinez@dundermifflin.com",
+        "phone": "555-0120",
+        "address": "333 Paper St",
+        "date_of_birth": "1983-12-01",
+        "account_balance": 3200.00,
+        "created_at": "2023-01-29T11:20:00Z"
+    }
+]
